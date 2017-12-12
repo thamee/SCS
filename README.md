@@ -1,0 +1,2 @@
+# SCS
+stock management System
